@@ -1,0 +1,6 @@
+{
+  "name": "Autosave Form Management System",
+  "description": "Full-stack autosave form management platform with 800ms debounced persistence, exponential backoff retries, optimistic concurrency conflict resolution, secure document uploads, and user and administrator dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
